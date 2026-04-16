@@ -1,0 +1,42 @@
+.vs/
+.vscode/
+.vsconfig
+*.sln
+*.suo
+*.sdf
+*.opensdf
+*.db
+*.opendb
+*.VC.db
+*.VC.opendb
+*.pdb
+Plugins/VisualStudioTools/
+
+.idea/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# --- Unreal Engine ---
+Saved/
+Intermediate/
+DerivedDataCache/
+Binaries/
+Build/
+PackagingResults/
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+
+# --- Misc ---
+*.log
+*.tmp
